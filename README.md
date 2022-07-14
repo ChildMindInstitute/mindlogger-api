@@ -1,7 +1,7 @@
 # mindlogger-api
 
 > Be aware ! It's an experimental package, it's not ready for production usage
-> It's just a codebase for reference, no build no tests yet
+> It's just a copy-past codebase for reference, no build no tests yet
 
 ## Intro
 
@@ -39,3 +39,4 @@ During work on API client we faced with next issues
 environments. For example, if we add in our build thous modules it might be an issue with consumer app on top of webpack 4, where such libs already exists in main bundle
 * just a few API endpoints implemented
 * no detailed JsDoc or/and TypeScript to make sdk autocomplete in consumer's codebase
+* repository code not in a build/compile state
